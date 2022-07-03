@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Debug", "Debug\Debug.csproj", "{E37083D3-90FA-4FFA-8EA6-19A11975F876}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.2.6 Vasya Table", "1.2.6 Vasya Table\1.2.6 Vasya Table.csproj", "{2F9B7565-7878-44CB-BFD5-ADB1DE48B96E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.2.9 Hex", "1.2.9 Hex\1.2.9 Hex.csproj", "{D9B1205E-BC4D-49E8-ACE9-E41E0C9E502D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.2.7 Min number", "2.2.7 Min number\2.2.7 Min number.csproj", "{0428E2B8-9751-46A9-8F25-BB22CF705269}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.3.9 Vasya House", "2.3.9 Vasya House\2.3.9 Vasya House.csproj", "{C541FC8A-38AC-4C3C-9C51-6C2A74278DE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.1.12 Simple Numbers", "3.1.12 Simple Numbers\3.1.12 Simple Numbers.csproj", "{FD0185A8-8881-4DCF-919A-8CA70B7BB706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.1.1 VasyaCalculator", "5.1.1 VasyaCalculator\5.1.1 VasyaCalculator.csproj", "{AA9F99EA-C939-4A27-87A1-C90C99955FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E37083D3-90FA-4FFA-8EA6-19A11975F876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E37083D3-90FA-4FFA-8EA6-19A11975F876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E37083D3-90FA-4FFA-8EA6-19A11975F876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E37083D3-90FA-4FFA-8EA6-19A11975F876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F9B7565-7878-44CB-BFD5-ADB1DE48B96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F9B7565-7878-44CB-BFD5-ADB1DE48B96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F9B7565-7878-44CB-BFD5-ADB1DE48B96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F9B7565-7878-44CB-BFD5-ADB1DE48B96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9B1205E-BC4D-49E8-ACE9-E41E0C9E502D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B1205E-BC4D-49E8-ACE9-E41E0C9E502D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B1205E-BC4D-49E8-ACE9-E41E0C9E502D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B1205E-BC4D-49E8-ACE9-E41E0C9E502D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0428E2B8-9751-46A9-8F25-BB22CF705269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0428E2B8-9751-46A9-8F25-BB22CF705269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0428E2B8-9751-46A9-8F25-BB22CF705269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0428E2B8-9751-46A9-8F25-BB22CF705269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C541FC8A-38AC-4C3C-9C51-6C2A74278DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C541FC8A-38AC-4C3C-9C51-6C2A74278DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C541FC8A-38AC-4C3C-9C51-6C2A74278DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C541FC8A-38AC-4C3C-9C51-6C2A74278DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD0185A8-8881-4DCF-919A-8CA70B7BB706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD0185A8-8881-4DCF-919A-8CA70B7BB706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD0185A8-8881-4DCF-919A-8CA70B7BB706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD0185A8-8881-4DCF-919A-8CA70B7BB706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA9F99EA-C939-4A27-87A1-C90C99955FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA9F99EA-C939-4A27-87A1-C90C99955FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA9F99EA-C939-4A27-87A1-C90C99955FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA9F99EA-C939-4A27-87A1-C90C99955FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5BAAB0A-E240-4FF2-B928-DDC435A95F58}
+	EndGlobalSection
+EndGlobal
